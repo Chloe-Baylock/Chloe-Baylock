@@ -1,4 +1,6 @@
-<p>Hi everyone! I'm Chloe. I am a passionate full stack web developer :3</p>
+<p>
+  Hi everyone! I'm <a href="https://chloe-baylock.netlify.app/">Chloe</a>. I am a passionate full stack web developer :3
+</p>
 
 <h2>Connect With Me:</h2>
 <p>
