@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hello everyone!
+
+## I'm [Chloe Baylock](https://chloe-baylock.netlify.app/)
+## I am a passionate full stack software engineer.
+
+### Connect With Me:
+* [![angel icon](https://angel.co/images/shared/peace_large.jpg)](https://angel.co/u/chloe-baylock)
+
 
 <!--
 **Chloe-Baylock/Chloe-Baylock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
