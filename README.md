@@ -176,7 +176,7 @@
 </div>
 <h3>BreadnB</h3>
 <h4>
-  <a href="https://soloprojectbychloe.herokuapp.com/" target="_blank" rel="noreferrer">
+  <a href="https://breadnb.herokuapp.com/" target="_blank" rel="noreferrer">
     Live
   </a>
   |
